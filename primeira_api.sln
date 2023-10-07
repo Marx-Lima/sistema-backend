@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "primeira_api", "primeira_api\primeira_api.csproj", "{F3D3AB19-E9E1-446A-BDE1-F5D44D22C606}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DbScripts", "DbScripts", "{CCD0BA96-4391-43CC-9449-B832A122D5F9}"
+	ProjectSection(SolutionItems) = preProject
+		ScriptsCriacao.sql = ScriptsCriacao.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3D3AB19-E9E1-446A-BDE1-F5D44D22C606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D3AB19-E9E1-446A-BDE1-F5D44D22C606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D3AB19-E9E1-446A-BDE1-F5D44D22C606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D3AB19-E9E1-446A-BDE1-F5D44D22C606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13A7F80C-80D2-4BC7-B447-E334BB3CBD6C}
+	EndGlobalSection
+EndGlobal
